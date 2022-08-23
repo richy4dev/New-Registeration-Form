@@ -1,19 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Registration Form
 
-> Description the project.
+> Review of Microverse trial Project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages are HTML and CSS
+- Technologies used is Linters
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+N/A
 
 
 ## Getting Started
@@ -40,17 +39,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Richard Obaseki**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/richy4dev)
+- Twitter: [@twitterhandle](https://twitter.com/RichardObasek)
 
 ## 🤝 Contributing
 
@@ -63,10 +55,6 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
